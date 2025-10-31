@@ -7,4 +7,4 @@ However what I did was mostly just downloading and sending files.
 
 Its intresting how sometimes things seem to come full circle in CS, 
 I've noticed a lot of subjects we cover are similar (just more in depth) to things I've already worked on in Highschool CS,
-even if I am struggling to keep up this semester...
+even if I am struggling to keep up this semester.
